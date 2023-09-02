@@ -1,7 +1,7 @@
 html,
 body {
-  background: url(background.jpg); 
-  background-size: cover ;
+  background: url(background.jpg) no-repeat center center fixed; 
+  background-size: cover;
   height: 100%;
   width: 100%;
   font-family: 'Handjet', cursive;
@@ -9,5 +9,5 @@ body {
 
 }
 #mc_embed_signup{
-    background-color: transparent;
+  background-color: transparent;
 }
